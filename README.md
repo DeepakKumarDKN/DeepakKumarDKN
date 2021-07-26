@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepakKumarDKN
+- 👋 Hi, I’m DeepakKumarNayak
 - 👀 I’m interested in WebDevelopment and UI/UX 
 - 🌱 I’m currently learning Webdevelopment using Python, Django, RestApi, HTML, CSS I am also Learning UI/UX
 - 💞️ I’m looking to collaborate on ...
