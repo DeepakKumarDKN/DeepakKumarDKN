@@ -7,6 +7,7 @@ About me
 
 
 🛠 Languages And Tools
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Python, Django, DjangoRestFramework, HTML, CSS, MYSQL, VISUALSTUDIOCODE, ADOBE-XD, FIGMA, PHOTOSHOP 
 <!---
 DeepakKumarDKN/DeepakKumarDKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
